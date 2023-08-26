@@ -5,11 +5,11 @@
 2. formik
 
 **Взял основные типы полей:**
-1. text
-2. email
-3. number
-4. checkbox
-5. radio
+- text
+- email
+- number
+- checkbox
+- radio
 
 
 ## Так же показана интеграция **React Hook Form + ANTD + yup**
